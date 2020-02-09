@@ -1,0 +1,4 @@
+.idea/
+go/bin
+go/pkg
+go/src/golang.org
