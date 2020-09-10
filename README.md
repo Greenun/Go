@@ -1,14 +1,8 @@
 # Golang Practice
 
-### Integrated Go Projects
-
-### Need to be separated.
+### Go Playground for practice
 
 ---
-
-* Project
-  * BitTorrent
-* Snippets
-  * Snippets during practices
 * Exercise
-  * practice golang
+* Snippets
+* ETC
